@@ -16,6 +16,7 @@ plugins:
   
 title : Jim Sheldon
 tagline: Jim's writing on things he finds interesting.
+description: Jim's writing on things he finds interesting.
 # url: http://www.jimsheldon.us
 author :
   name : Jim Sheldon
@@ -28,6 +29,9 @@ social:
     - https://twitter.com/jasheldo
     - https://linkedin.com/in/jasheldo
     - https://github.com/jasheldo
+twitter:
+  username: jasheldo
+  card: summary
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
