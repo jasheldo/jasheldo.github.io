@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Personal Blog of James Sheldon
+title : Jim's Blog
+tagline: Personal Blog of Jim Sheldon
 author :
-  name : James Sheldon
+  name : Jim Sheldon
   email : jimsheldon@icloud.com
   github : jasheldo
   twitter : jasheldo
