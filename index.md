@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+# title: Jim's Blog!
 tagline: I write stuff down. Some of it is worth reading.
 ---
 {% include JB/setup %}
