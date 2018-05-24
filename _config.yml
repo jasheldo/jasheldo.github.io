@@ -16,7 +16,7 @@ plugins:
   
 title : Jim's Blog
 tagline: Jim's writing on things he finds interesting.
-url: http://www.jimsheldon.us
+# url: http://www.jimsheldon.us
 author :
   name : Jim Sheldon
   email : jimsheldon@icloud.com
