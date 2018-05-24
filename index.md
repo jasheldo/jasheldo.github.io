@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Jim's Blog!
+title: Jim Sheldon
 tagline: I write stuff down. Some of it is worth reading.
 ---
 {% include JB/setup %}
