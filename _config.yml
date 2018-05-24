@@ -14,7 +14,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   
-title : Jim's Blog
+title : Jim Sheldon
 tagline: Jim's writing on things he finds interesting.
 # url: http://www.jimsheldon.us
 author :
