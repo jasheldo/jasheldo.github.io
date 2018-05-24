@@ -1,7 +1,6 @@
 ---
 layout: page
 title: I write stuff down. Some of it is worth reading.
-tagline: I write stuff down. Some of it is worth reading.
 ---
 {% include JB/setup %}
     
