@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.1"
-gem "jekyll-sitemap"
-gem "pygments.rb"
+gem 'github-pages'
+gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-redirect-from', group: [:jekyll_plugins]

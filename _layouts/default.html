@@ -1,6 +1,7 @@
----
-theme :
-  name : bootstrap-3
----
-{% include JB/setup %}
-{% include themes/bootstrap-3/default.html %}
+{% include top.html %}
+
+<div id="content">
+  {{ content }}
+</div><!-- #content -->
+
+{% include bottom.html %}
