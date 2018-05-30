@@ -27,18 +27,17 @@ This is the start of a multi-post outline on creating a specific Jekyll site. Of
 if you want a full description on using Jekyll for building a bunch of static sites 
 please refer to the official documentation.
 
-With that, let's get started:
+Let's get started:
 
 ### Setting up Your Environment
 
 #### Installing base packages
 
-You'll need to install a few pieces of software. Fortunately, on a Mac it's simple. Open 
-a Terminal and run the following commands:
+You'll need to install a few pieces of software. I can't spell it out better than the 
+official Jekyll docs so work through the [Installation](https://jekyllrb.com/docs/installation/) page 
+for your platform.
 
-        gem install jekyll #install Jekyll
-        gem install jekyll-compose
-        gem install jekyll-redirect-from
+#### Homebrew 
 
 If you're not using Git and Github you'll need to install Git and setup a GitHub account. 
 I highly recommend using [`Homebrew`](https://brew.sh) if you're on a Mac. Install 
@@ -47,7 +46,7 @@ I highly recommend using [`Homebrew`](https://brew.sh) if you're on a Mac. Insta
         /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
         brew install git
 
-#### Setting up GitHub
+##### Setting up GitHub
 
 If you don't already have a GitHub account, you'll need to visit [GitHub](https://www.github.com) and set up an 
 account. Once done, create a new repository and name it `username.github.io` where 
@@ -57,13 +56,12 @@ completely empty repository (repo).
 
 #### Local directory
 
-At this point we're going to diverge from Sourabh's instructions and hand craft this new site. 
+Now that you've run through the installation process and set up both Git and GitHub as well 
+as an empty GitHub repo for your site, we need to set up our site to version with Git and 
+then mirror it to the GitHub repo. Run the following commands:
 
-Create an empty directory where you'd like this site to live. I created my directory in 
-`~/Sites/portfolio`. In terminal, change to this directory and run the following commands:
 
-
-        cd portfolio
+        cd Sites/<your site directory>
         git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
         git push origin master
 
@@ -75,8 +73,15 @@ However, the right way to go about developing the site is to use the built-in se
 run the site locally to see what it looks like. Then, debug it on your computer and once 
 you're comfortable with the changes, push them out to GitHub.
 
-You can run the local server by moving to the `portfolio` directory and running
+You can run the local server by moving to the `<your site directory>` directory and running
 
         jekyll serve --livereload
+
+![alt text](/images/blog/2018-05-25/terminal.png)
         
-In the next post, we'll explore creating the site using Jekyll.
+You'll get a very unimaginative site that looks like the following:
+
+![alt text][safari]
+
+[safari]: /images/blog/2018-05-25/safari.png "Safari"        
+In the next post, we'll take the next steps to make our site look like an actual site.
