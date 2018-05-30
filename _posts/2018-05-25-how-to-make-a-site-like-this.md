@@ -37,6 +37,12 @@ You'll need to install a few pieces of software. I can't spell it out better tha
 official Jekyll docs so work through the [Installation](https://jekyllrb.com/docs/installation/) page 
 for your platform.
 
+When you have Jekyll installed, go to your site directory and type:
+
+        jekyll new blog --force
+
+This will set up the base site with the folder hierarchy and install the minima theme.
+
 #### Homebrew 
 
 If you're not using Git and Github you'll need to install Git and setup a GitHub account. 
