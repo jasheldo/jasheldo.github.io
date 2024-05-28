@@ -7,7 +7,7 @@ layout: default
 <div class="hfeed">
 
   <div class="hentry post project-batch-title">
-    <h2>Presence Health</h2>
+    <h2>Current and Prior Projects</h2>
   </div>
 
   <div class="hentry post">
