@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Make a Site Like This Part 1"
+title: "How to Make a Site Like This"
 description: "Guide to making a site similar to this."
 category: Web Development
 excerpt: A brief outline on making a set of static sites with Jekyll
@@ -89,5 +89,4 @@ You'll get a very unimaginative site that looks like the following:
 
 ![alt text][safari]
 
-[safari]: /images/blog/2018-05-25/safari.png "Safari"        
-In the next post, we'll take the next steps to make our site look like an actual site.
+[safari]: /images/blog/2018-05-25/safari.png "Safari"
