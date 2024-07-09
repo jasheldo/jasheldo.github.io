@@ -24,5 +24,15 @@ layout: default
     </div>
   </div>
 
+  <div class="ventry post project-batch-title">
+    <h2>Certifications</h2>
+  </div>
+
+  <div class="ventry post">
+    <div class="entry-summary">
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="17c6eb34-817e-4b01-bd36-0f4e1f89710d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+  </div>
+
 
 </div>
