@@ -28,6 +28,8 @@ layout: default
     <h2>Certifications</h2>
   </div>
 
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="51a66dd8-846d-4bcb-8a6d-d52d6a5a97d1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5a2dbd1-36d0-412f-b584-c5b9eaa0e77a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="17c6eb34-817e-4b01-bd36-0f4e1f89710d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
