@@ -37,6 +37,6 @@ layout: default
 
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b71791e4-19b1-4aaf-a8a3-2742f995b443" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="64e6acdbdab64cb5a626e9fde1d0cba" data-share-badge-host="https://badges.marquiswhoswho.com"><img decoding="async" src="https://badges.marquiswhoswho.com/Badge/honoredlistee/64e6acdbdab64cb5a626e9fde1d0cba982c4a22323344c04b30917baeac223a3" alt="Marquis Who's Who In America Badge"></div>
+  <img decoding="async" src="https://badges.marquiswhoswho.com/Badge/honoredlistee/64e6acdbdab64cb5a626e9fde1d0cba982c4a22323344c04b30917baeac223a3" alt="Marquis Who's Who In America Badge" width="130px" height="130px">
 
 </div>
