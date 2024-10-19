@@ -22,6 +22,7 @@ layout: default
         <li><strong style="color:#333;">Bundled Payments for Care Improvement</strong>: Produced an analytics platform around the Centers for Medicare and Medicaid Services (CMS) Bundled Payments for Care Improvement (BPCI) initiative. Using Python we could address variable data sources while maintaining reporting integrity and timliness.</li>
       </ul>
     </div>
+
   </div>
 
   <div class="hentry post project-batch-title">
@@ -36,5 +37,8 @@ layout: default
 
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b71791e4-19b1-4aaf-a8a3-2742f995b443" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="64e6acdbdab64cb5a626e9fde1d0cba" data-share-badge-host="https://badges.marquiswhoswho.com"></div>
+
+<!-- https://badges.marquiswhoswho.com/Badge/honoredlistee/64e6acdbdab64cb5a626e9fde1d0cba982c4a22323344c04b30917baeac223a3 -->
 
 </div>
